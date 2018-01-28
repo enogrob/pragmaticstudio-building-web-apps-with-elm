@@ -3,7 +3,15 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
+    <script src="bingo.js"></script>
+
+    </script>
   </head>
   <body>
+    <div id="my-bingo-app"></div>
+    <script>
+      var node = document.getElementById('my-bingo-app');
+      var app = Elm.Bingo.embed(node);
+    </script>
   </body>
 </html>
