@@ -1,16 +1,15 @@
 {
-  "name": "bingo-api-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "The Pragmatic Studio",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.8.20",
-    "underscore": "^1.8.3"
-  }
+	"name": "bingo-api-server",
+	"version": "1.0.0",
+	"license": "ISC",
+	"author": "The Pragmatic Studio",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"json-server": "^0.8.20",
+		"underscore": "^1.8.3"
+	}
 }
