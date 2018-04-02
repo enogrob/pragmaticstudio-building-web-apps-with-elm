@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 ## Topics
 ```
 [x] 1. Introduction 01:49
-[ ] 2. Hello, Elm! 06:35
+[x] 2. Hello, Elm! 06:35
 [ ] 3. Compiling and Running 04:16
 [ ] 4. Calling Functions 07:32
 [ ] 5. Defining Functions 08:07
